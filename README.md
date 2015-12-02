@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-# jstransformer-microtemplate
-microtemplate support for JSTransformers
-=======
-# JSTransformer Boilerplate
-
-Use JSTransformer Boilerplate to create and update transformers.
-
-1. Visit [the Boilerplate Wiki](https://github.com/jstransformers/boilerplate/wiki) on how to get started
-2. Remove this top notice from any transformers
-
 # jstransformer-microtemplate
 
 [microtemplate](https://www.npmjs.com/package/microtemplate) support for [JSTransformers](http://github.com/jstransformers).
@@ -34,4 +23,3 @@ microtemplate.render('Hello, <#=name#>', {name: 'World'}).body
 ## License
 
 MIT
->>>>>>> baf7091c768ba97174848a3c3f1393ec3cf9cba2
