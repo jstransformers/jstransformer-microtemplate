@@ -1,8 +1,8 @@
-'use strict';
+'use strict'
 
-var microtemplate = require('microtemplate');
+var microtemplate = require('microtemplate')
 
-exports.name = 'microtemplate';
-exports.outputFormat = 'html';
+exports.name = 'microtemplate'
+exports.outputFormat = 'html'
 
-exports.compile = microtemplate.compile;
+exports.compile = microtemplate.compile
