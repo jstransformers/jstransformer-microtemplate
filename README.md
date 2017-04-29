@@ -1,5 +1,7 @@
 # jstransformer-microtemplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-microtemplate.svg)](https://greenkeeper.io/)
+
 [microtemplate](https://www.npmjs.com/package/microtemplate) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-microtemplate/master.svg)](https://travis-ci.org/jstransformers/jstransformer-microtemplate)
