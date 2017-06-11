@@ -1,6 +1,6 @@
 'use strict'
 
-var microtemplate = require('microtemplate')
+const microtemplate = require('microtemplate')
 
 exports.name = 'microtemplate'
 exports.outputFormat = 'html'
