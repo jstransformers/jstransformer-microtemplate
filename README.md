@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var microtemplate = require('jstransformer')(require('jstransformer-microtemplate'));
+var microtemplate = require('jstransformer')(require('jstransformer-microtemplate'))
 
 microtemplate.render('Hello, <#=name#>', {name: 'World'}).body
 //=> 'Hello, World'
